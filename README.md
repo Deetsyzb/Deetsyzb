@@ -1,10 +1,14 @@
 -👋 Hi, I’m @Deetsyzb
 
--👾 I like to play games (Soulslike, Monster Hunter, GoW) 
+-👾 Games I like to play (Most Souls games, Monster Hunter, GoW)
 
--🤖 Interested in Machine Learning and the cloud 
+-🐉 Fiction I am into (Inheritance Cycle, Wheel of Time, Bartimaeus)
 
--💻 Currently learning GO.
+-🤖 Interested in Machine Learning and the cloud. 
+
+-📘 Had some experience with React, Node.js, Express, Mongo, PSQL, TS, JS
+
+-💻 Currently learning GO. 
 
 
 <!---
