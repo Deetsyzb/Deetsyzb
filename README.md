@@ -1,6 +1,9 @@
 -👋 Hi, I’m @Deetsyzb
+
 -👾 I like to play games (Soulslike, Monster Hunter, GoW) 
+
 -🤖 Interested in Machine Learning and the cloud 
+
 -💻 Currently learning GO.
 
 
