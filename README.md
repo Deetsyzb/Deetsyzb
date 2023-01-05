@@ -4,8 +4,6 @@
 
 -🐉 Fiction I am into (Inheritance Cycle, Wheel of Time, Bartimaeus)
 
--🤖 Interested in Machine Learning and the cloud. 
-
 -📘 Had some experience with React, Node.js, Express, Mongo, PSQL, TS, JS
 
 -💻 Currently learning GO. 
